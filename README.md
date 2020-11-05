@@ -8,5 +8,8 @@ RESUMEN
 Lesson 2:  Performing Operations Asynchronously
 Se obtiene el resultado esperado.
 
+Lesson 3:  Synchronizing Concurrent Access to Data
+Demonstration:  Using Lock Statements
+
 PROBLEMAS
 Sin problemas
